@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1660575268,
+	"version": 1660581238,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,11 @@
 		"media/без названия.ogg",
 		"media/indie 11-08-2022 04-54.m4a",
 		"media/indie 11-08-2022 04-54.ogg",
-		"loading-logo.png"
+		"loading-logo.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png"
 	]
 }
